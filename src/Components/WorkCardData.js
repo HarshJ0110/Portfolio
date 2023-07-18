@@ -15,7 +15,7 @@ const ProjectCardData =[
         imgsrc: p1, 
         title: "Golds Gym Website",
         text: "Project that allows users to find exercises according to their needs, suggests some videos related to that exercise & also shows some similar exercises. The project was built using ReactJs and Material UI. The application utilizes API endpoints (Rapid api exerciseDB and youtube-search-and-download) for fetching data.",
-        view: "https://fitnessappnetlify.netlify.app/",
+        view: "https://goldsgymnetlify.netlify.app",
         source: "https://github.com/HarshJ0110/FIT_APP.git"
     },
     {
